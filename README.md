@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ceci</h1>
 <h3 align="center">I am a DevOps Engineer at Performance Technologies S.A. I'm also currently pursuing a Bachelor Degree of Computer Science at the University of Athens!</h3>
 
-- 👨‍💻 All of my projects are available at [http://users.uoa.gr/~sdi1900066/](http://users.uoa.gr/~sdi1900066/)
-
 - 📫 How to reach me **cceeci99@gmail.com**
+
+- 📄 Know about my experiences [http://users.uoa.gr/~sdi1900066/](http://users.uoa.gr/~sdi1900066/)
 
 - ⚡ Fun fact **I'm from Bulgaria**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ceci99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ceci99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tsvetomir-ivanov-3301941a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tsvetomir-ivanov-3301941a8/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tsvetomir-ivanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsvetomir-ivanov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
