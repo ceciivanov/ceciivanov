@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceci</h1>
-<h3 align="center">I am a DevOps Engineer at Performance Technologies S.A. I'm also currently pursuing a Bachelor Degree of Computer Science at the University of Athens!</h3>
+<h3 align="center">I am a Cloud DevOps Engineer at Performance Technologies S.A. I'm also currently pursuing a Bachelor Degree of Computer Science at the University of Athens!</h3>
 
 - 📫 How to reach me **cceeci99@gmail.com**
 
