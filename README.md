@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceci</h1>
-<h3 align="center">I'm a DevOps Engineer at Performance Technologies S.A. in Athens, Greece, holding a Bachelor's Degree in Computer Science. Beyond my role, I'm a tech enthusiast passionate about both DevOps and software engineering. I love problem-solving and staying current in the dynamic tech landscape.</h3>
+<h3 align="center">I'm a DevOps Engineer at Performance Technologies S.A. in Athens, Greece, holding a Bachelor's Degree in Computer Science from the National and Kapodistrian University of Athens. Beyond my role, I'm a tech enthusiast passionate about both DevOps and software engineering. I love problem-solving and staying current in the dynamic tech landscape.</h3>
 
 - 📫 How to reach me **cceeci@icloud.com**
 
