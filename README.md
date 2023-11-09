@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ceci</h1>
 <h3 align="center">I am currently working as DevOps Engineer at Performance Technologies S.A. in Athens, Greece. I also have Bachelor Degree of Computer Science at the University of Athens!</h3>
 
-- 📫 How to reach me **cceeci99@gmail.com**
+- 📫 How to reach me **cceeci@icloud.com**
 
 - 📄 Know about my experiences [http://users.uoa.gr/~sdi1900066/](http://users.uoa.gr/~sdi1900066/)
 
