@@ -4,23 +4,22 @@ Backend Software Engineer at GWI based in Athens, Greece.
   
 I primarily work with Go, building scalable microservices and backend systems for cloud analytics platforms. My background in DevOps and cloud infrastructure gives me a strong understanding of how software runs in production — from backend architecture to CI/CD automation and observability.
 
-I hold a Bachelor’s degree in Computer Science from the National and Kapodistrian University of Athens.
+I hold a Bachelor’s degree in Computer Science from the National and Kapodistrian University of Athens.</h3>
 
-What I enjoy working on
-- Go backend development and microservices
-- Designing reliable and scalable distributed systems
-- CI/CD automation with GitHub Actions
-- Cloud-native applications on GCP
-- Observability and production debugging
-- AI integrations and prompt engineering
+- 🚀 What I enjoy working on 
+  - Go backend development and microservices
+  - Designing reliable and scalable distributed systems
+  - CI/CD automation with GitHub Actions
+  - Cloud-native applications on GCP
+  - Observability and production debugging
+  - AI integrations and prompt engineering
 
-Current focus
-- I'm currently exploring projects around:
-- Go backend services
-- automation tooling
-- developer productivity tools
-- AI-assisted systems
-</h3>
+- 🔎 Current focus
+  - I'm currently exploring projects around:
+  - Go backend services
+  - automation tooling
+  - developer productivity tools
+  - AI-assisted systems
 
 - 📫 How to reach me **cceeci@icloud.com**
 
