@@ -9,17 +9,11 @@ I hold a Bachelor’s degree in Computer Science from the National and Kapodistr
 - 🚀 What I enjoy working on 
   - Go backend development and microservices
   - Designing reliable and scalable distributed systems
-  - CI/CD automation with GitHub Actions
-  - Cloud-native applications on GCP
-  - Observability and production debugging
+  - CI/CD automation and developer workflows with GitHub Actions
+  - Cloud-native applications and infrastructure
+  - Observability, monitoring and production debugging
   - AI integrations and prompt engineering
-
-- 🔎 Current focus
-  - I'm currently exploring projects around:
-  - Go backend services
-  - automation tooling
-  - developer productivity tools
-  - AI-assisted systems
+  - Developer tooling and automation
 
 - 📫 How to reach me **cceeci@icloud.com**
 
