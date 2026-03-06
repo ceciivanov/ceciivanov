@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ceci</h1>
 <h3 align="center">
-I am a Backend Software Engineer at GWI in Athens, Greece, working primarily with Go. I hold a Bachelor's Degree in Computer Science from the National and Kapodistrian University of Athens. Previously worked as a DevOps Engineer with experience in cloud environments and automation. I'm passionate about building reliable systems, solving problems, and continuously learning in the ever-evolving tech world.
+Backend Software Engineer at GWI based in Athens, Greece.
+  
+I primarily work with Go, building scalable microservices and backend systems for cloud analytics platforms. My background in DevOps and cloud infrastructure gives me a strong understanding of how software runs in production — from backend architecture to CI/CD automation and observability.
+
+I hold a Bachelor’s degree in Computer Science from the National and Kapodistrian University of Athens.
+
+What I enjoy working on
+- Go backend development and microservices
+- Designing reliable and scalable distributed systems
+- CI/CD automation with GitHub Actions
+- Cloud-native applications on GCP
+- Observability and production debugging
+- AI integrations and prompt engineering
+
+Current focus
+- I'm currently exploring projects around:
+- Go backend services
+- automation tooling
+- developer productivity tools
+- AI-assisted systems
 </h3>
 
 - 📫 How to reach me **cceeci@icloud.com**
