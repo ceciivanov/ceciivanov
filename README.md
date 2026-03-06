@@ -35,6 +35,14 @@ I hold a Bachelor’s degree in Computer Science from the National and Kapodistr
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 </a>
 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/>
+</a>
+
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </a>
