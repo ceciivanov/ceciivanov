@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ceci</h1>
 <h3 align="center">
-Backend Software Engineer at GWI based in Athens, Greece.
+Backend Engineer at GWI based in Athens, Greece.
   
 I primarily work with Go, building scalable microservices and backend systems for cloud analytics platforms. My background in DevOps and cloud infrastructure gives me a strong understanding of how software runs in production — from backend architecture to CI/CD automation and observability.
 
